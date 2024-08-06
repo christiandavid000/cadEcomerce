@@ -97,6 +97,8 @@ include_once('controller/conexao.php');
     </section>
 </body>
 </html>
+'''
+
 <img src="img2/produto.png" width="40%">
 ### categoria.php
 '''php
@@ -125,6 +127,8 @@ include_once('controller/conexao.php');
     </section>
 </body>
 </html>
+'''
+
 <img src="img2/produto.png" width="40%">
 insereproduto.php
 '''php
