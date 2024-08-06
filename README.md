@@ -2,7 +2,11 @@
 
 Este repositório contém o código para um sistema de cadastro de produtos, marcas e categorias. Abaixo estão documentados todos os métodos PHP utilizados, exemplos de uso, e imagens das telas da aplicação e do banco de dados.
 
-## Métodos PHP
+## 📌 Tecnologias Utilizadas
+- HTML5    
+- CSS3   
+- PHP 8.1   
+- MySQL
 
 ### produto.php
 
@@ -189,5 +193,6 @@ mysqli_close($mysqli);
 2. Inclua as URLs corretas para as imagens do banco de dados, se necessário.
 3. Verifique se os métodos PHP estão corretos e funcionais no seu ambiente de desenvolvimento antes de finalizar o README.
 
-Se precisar de mais alguma coisa ou tiver dúvidas, sinta-se à vontade para perguntar!
+## ✒️ Autores
+[Alexsandro willian](https://github.com/christiandavid000)
 
