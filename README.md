@@ -66,6 +66,8 @@ include_once('controller/conexao.php');
     </section>
 </body>
 </html>
+
+<img src="img2/marca.png" width="40%">
 ### marca.pqp
 '''php
 <!DOCTYPE html>
@@ -93,6 +95,7 @@ include_once('controller/conexao.php');
     </section>
 </body>
 </html>
+<img src="img2/produto.png" width="40%">
 ### categoria.php
 '''php
 <!DOCTYPE html>
@@ -120,6 +123,7 @@ include_once('controller/conexao.php');
     </section>
 </body>
 </html>
+<img src="img2/produto.png" width="40%">
 insereproduto.php
 '''php
 <?php
@@ -147,6 +151,7 @@ if (mysqli_affected_rows($mysqli) != 0) {
     </script>";
 }
 ?>
+<img src="img2/inseremarca.png" width="40%">
 insere marca.php
 '''php
 <?php
@@ -166,6 +171,7 @@ if (mysqli_query($mysqli, $cad_marca)) {
 
 mysqli_close($mysqli);
 ?>
+<img src="img2/inserecategoria.png" width="40%">
 insere categoria.php
 '''php
 <?php
