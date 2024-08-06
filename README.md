@@ -10,7 +10,7 @@ Este repositório contém o código para um sistema de cadastro de produtos, mar
 
 <img src="img2/produtos.png" width="40%">
 
-## 'produto.php`
+### produto.php
 ```php
 <?php
 include_once('controller/conexao.php');
