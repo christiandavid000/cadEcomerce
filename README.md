@@ -66,7 +66,7 @@ include_once('controller/conexao.php');
     </section>
 </body>
 </html>
-'''
+### marca.pqp
 '''php
 <!DOCTYPE html>
 <html lang="en">
@@ -93,7 +93,7 @@ include_once('controller/conexao.php');
     </section>
 </body>
 </html>
-'''
+### categoria.php
 '''php
 <!DOCTYPE html>
 <html lang="en">
@@ -120,7 +120,7 @@ include_once('controller/conexao.php');
     </section>
 </body>
 </html>
-'''
+insereproduto.php
 '''php
 <?php
 include_once('controller/conexao.php');
@@ -147,7 +147,7 @@ if (mysqli_affected_rows($mysqli) != 0) {
     </script>";
 }
 ?>
-'''
+insere marca.php
 '''php
 <?php
 include('controller/conexao.php');
@@ -166,7 +166,7 @@ if (mysqli_query($mysqli, $cad_marca)) {
 
 mysqli_close($mysqli);
 ?>
-'''
+insere categoria.php
 '''php
 <?php
 include('controller/conexao.php');
@@ -186,9 +186,6 @@ if (mysqli_query($mysqli, $cad_categoria)) {
 mysqli_close($mysqli);
 ?>
 '''
-'''php
-
-### Notas:
 
 1. Substitua `path/to/produto.png`, `path/to/marca.png` e `path/to/categoria.png` pelos caminhos corretos das imagens das telas da aplicação.
 2. Inclua as URLs corretas para as imagens do banco de dados, se necessário.
