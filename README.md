@@ -8,6 +8,7 @@ Este repositório contém o código para um sistema de cadastro de produtos, mar
 - PHP 8.1   
 - MySQL
 
+<img src="img/produto.png" width="40%">
 ### produto.php
 
 ```php
