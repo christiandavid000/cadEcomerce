@@ -69,6 +69,7 @@ include_once('controller/conexao.php');
 '''
 
 <img src="img2/marca.png" width="40%">
+
 ### marca.pqp
 '''php
 <!DOCTYPE html>
