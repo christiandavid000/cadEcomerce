@@ -72,7 +72,7 @@ include_once('controller/conexao.php');
 
 ### marca.php
 
-'''php
+```php
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -104,7 +104,7 @@ include_once('controller/conexao.php');
 
 ### categoria.php
 
-'''php
+```php
 <!DOCTYPE html>
 <html lang="en">
 <head>
