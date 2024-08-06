@@ -66,7 +66,7 @@ include_once('controller/conexao.php');
     </section>
 </body>
 </html>
-'''
+```
 
 <img src="img2/marca.png" width="40%">
 
@@ -97,7 +97,7 @@ include_once('controller/conexao.php');
     </section>
 </body>
 </html>
-'''
+```
 
 <img src="img2/produto.png" width="40%">
 ### categoria.php
@@ -127,7 +127,7 @@ include_once('controller/conexao.php');
     </section>
 </body>
 </html>
-'''
+```
 
 <img src="img2/produto.png" width="40%">
 insereproduto.php
@@ -157,6 +157,7 @@ if (mysqli_affected_rows($mysqli) != 0) {
     </script>";
 }
 ?>
+```
 <img src="img2/inseremarca.png" width="40%">
 insere marca.php
 '''php
@@ -197,7 +198,7 @@ if (mysqli_query($mysqli, $cad_categoria)) {
 
 mysqli_close($mysqli);
 ?>
-'''
+```
 
 1. Substitua `path/to/produto.png`, `path/to/marca.png` e `path/to/categoria.png` pelos caminhos corretos das imagens das telas da aplicação.
 2. Inclua as URLs corretas para as imagens do banco de dados, se necessário.
