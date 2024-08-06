@@ -100,7 +100,9 @@ include_once('controller/conexao.php');
 ```
 
 <img src="img2/categoria.png" width="40%">
+
 ### categoria.php
+
 '''php
 <!DOCTYPE html>
 <html lang="en">
@@ -128,11 +130,6 @@ include_once('controller/conexao.php');
 </body>
 </html>
 ```
-
-
-1. Substitua `path/to/produto.png`, `path/to/marca.png` e `path/to/categoria.png` pelos caminhos corretos das imagens das telas da aplicação.
-2. Inclua as URLs corretas para as imagens do banco de dados, se necessário.
-3. Verifique se os métodos PHP estão corretos e funcionais no seu ambiente de desenvolvimento antes de finalizar o README.
 
 ## ✒️ Autores
 [Alexsandro willian](https://github.com/christiandavid000)
